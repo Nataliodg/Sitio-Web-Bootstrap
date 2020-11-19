@@ -1,0 +1,74 @@
+body{
+    font-family:'Merriweather', serif;
+    background:black;
+    color:white;
+    padding-top:75px;
+}
+header{
+    margin-top:45px;
+    color:white;
+    margin-bottom: 90px;
+}
+footer{
+    background:url(/img/Iphone3.png);
+    padding-top:105px;
+    padding-bottom:70px;
+}
+#testimonial{
+    background:#9ba4b4;
+    padding:50px 0 30px 0;
+    text-align:center;
+    /* margin-top:40px; */
+}
+#info-one{
+    padding-top:70px;
+    margin-bottom: 50px;
+}
+#info-two{
+    
+    color: black;
+}
+    .col1{
+        font-size: 13px;
+        letter-spacing: 1px;
+        margin: 20px 65px 20px 0px;
+        flex: 1 1 40%;
+        background: #9ba4b4;
+        border-radius: 5px;
+        box-shadow: -3px 3px 2px gray;
+    }
+    .col2{
+        font-size: 13px;
+        letter-spacing: 1px;
+        margin: 20px 0px 20px 65px;
+        flex: 1 1 40%;
+        background: #9ba4b4;
+        border-radius: 5px;
+        box-shadow: -3px 3px 2px #9ba4b4;
+    }
+.card{
+    background:#9ba4b4;
+    margin-bottom:25px;
+}
+#testimonial .h1{
+    color: black;
+}
+.pie{
+    background:black;
+    display:flex;
+    justify-content:center;
+    margin-top:5px;
+    margin-bottom:5px;
+    text-align:center;
+}
+.pie a{
+    color:white;
+    font-size:12px;
+    text-transform:uppercase;
+    padding:0 10px;
+    letter-spacing:2px;
+    font-family:'Goldman', cursive;
+}
+.pie a:hover{
+    color:#9ba4b4;
+}
