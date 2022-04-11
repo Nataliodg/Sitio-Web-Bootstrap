@@ -10,14 +10,17 @@ header{
     margin-bottom: 90px;
 }
 footer{
-    background:url(/img/Iphone3.png);
+    background-image:url("https://laverdadnoticias.com/export/sites/laverdad/img/2022/04/10/iphone_x_gama.jpg_1342066451.jpg");
+    background-size: 100% 100%;
+
     padding-top:105px;
     padding-bottom:70px;
 }
 #testimonial{
-    background:#9ba4b4;
+    color: #212F3D;
+    background:white ;
     padding:50px 0 30px 0;
-    text-align:center;
+    text-align:start;
     /* margin-top:40px; */
 }
 #info-one{
@@ -26,14 +29,14 @@ footer{
 }
 #info-two{
     
-    color: black;
+    color: white;
 }
     .col1{
         font-size: 13px;
         letter-spacing: 1px;
         margin: 20px 65px 20px 0px;
         flex: 1 1 40%;
-        background: #9ba4b4;
+        background: #212F3D;
         border-radius: 5px;
         box-shadow: -3px 3px 2px gray;
     }
@@ -42,7 +45,7 @@ footer{
         letter-spacing: 1px;
         margin: 20px 0px 20px 65px;
         flex: 1 1 40%;
-        background: #9ba4b4;
+        background: #212F3D;
         border-radius: 5px;
         box-shadow: -3px 3px 2px #9ba4b4;
     }
@@ -51,7 +54,8 @@ footer{
     margin-bottom:25px;
 }
 #testimonial .h1{
-    color: black;
+    text-align: center;
+    color: #212F3D;
 }
 .pie{
     background:black;
@@ -67,7 +71,7 @@ footer{
     text-transform:uppercase;
     padding:0 10px;
     letter-spacing:2px;
-    font-family:'Goldman', cursive;
+    font-family:'Times New Roman', Times, serif;
 }
 .pie a:hover{
     color:#9ba4b4;
